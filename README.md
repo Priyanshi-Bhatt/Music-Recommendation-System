@@ -26,7 +26,7 @@ This project is a **Music Recommendation System** built with **Streamlit**, **Sp
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-recommendation-system.git
+   git clone https://github.com/Priyanshi-Bhatt/music-recommendation-system.git
    ```
 2. Install dependencies:
    ```bash
